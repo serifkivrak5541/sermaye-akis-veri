@@ -1,0 +1,1 @@
+# sermaye-akis-veri
