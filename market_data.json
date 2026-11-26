@@ -2,8 +2,8 @@
   "schema_version": 1,
   "market": "BIST",
   "timezone": "Europe/Istanbul",
-  "published_at_utc": "2026-11-26T20:05:42Z",
-  "published_at_tr": "2026-11-26T23:05:42+03:00",
+  "published_at_utc": "2026-11-26T20:39:08Z",
+  "published_at_tr": "2026-11-26T23:39:08+03:00",
   "record_count": 494,
   "source_record_counts": {
     "burkut": 0,
@@ -30,7 +30,7 @@
           "average_volume": 12691645.2,
           "volume_ratio": 0.528,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -50,7 +50,7 @@
           "average_volume": 80824.0,
           "volume_ratio": 1.14,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -70,7 +70,7 @@
           "average_volume": 624417.0,
           "volume_ratio": 0.575,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -90,7 +90,7 @@
           "average_volume": 102181259.8,
           "volume_ratio": 0.293,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -110,7 +110,7 @@
           "average_volume": 316486.2,
           "volume_ratio": 2.656,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -130,7 +130,7 @@
           "average_volume": 23499230.2,
           "volume_ratio": 1.541,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -150,7 +150,7 @@
           "average_volume": 561847.8,
           "volume_ratio": 5.142,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -170,7 +170,7 @@
           "average_volume": 184357.6,
           "volume_ratio": 0.467,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -190,7 +190,7 @@
           "average_volume": 2154043.0,
           "volume_ratio": 1.043,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -210,7 +210,7 @@
           "average_volume": 192889.0,
           "volume_ratio": 0.692,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -230,7 +230,7 @@
           "average_volume": 2279948.4,
           "volume_ratio": 1.747,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -250,7 +250,7 @@
           "average_volume": 93740649.8,
           "volume_ratio": 1.141,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -270,7 +270,7 @@
           "average_volume": 170425.2,
           "volume_ratio": 0.697,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -290,7 +290,7 @@
           "average_volume": 4926141.8,
           "volume_ratio": 4.805,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -310,7 +310,7 @@
           "average_volume": 12063912.4,
           "volume_ratio": 1.292,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -330,7 +330,7 @@
           "average_volume": 23228321.6,
           "volume_ratio": 0.915,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -350,7 +350,7 @@
           "average_volume": 4776987.0,
           "volume_ratio": 1.137,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -370,7 +370,7 @@
           "average_volume": 12525.6,
           "volume_ratio": 0.799,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -390,7 +390,7 @@
           "average_volume": 12136997.8,
           "volume_ratio": 1.641,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -410,7 +410,7 @@
           "average_volume": 4261626.8,
           "volume_ratio": 0.842,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -430,7 +430,7 @@
           "average_volume": 2960705.6,
           "volume_ratio": 0.911,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -450,7 +450,7 @@
           "average_volume": 1260536.8,
           "volume_ratio": 0.648,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -470,7 +470,7 @@
           "average_volume": 4702373.0,
           "volume_ratio": 0.201,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -490,7 +490,7 @@
           "average_volume": 2148954.2,
           "volume_ratio": 1.197,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -510,7 +510,7 @@
           "average_volume": 6749150.8,
           "volume_ratio": 0.736,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -530,7 +530,7 @@
           "average_volume": 15698.2,
           "volume_ratio": 0.729,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -550,7 +550,7 @@
           "average_volume": 114911.6,
           "volume_ratio": 0.566,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -570,7 +570,7 @@
           "average_volume": 896783.8,
           "volume_ratio": 1.145,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -590,7 +590,7 @@
           "average_volume": 9941892.8,
           "volume_ratio": 1.346,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -610,7 +610,7 @@
           "average_volume": 717952.2,
           "volume_ratio": 2.082,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -630,7 +630,7 @@
           "average_volume": 327608.4,
           "volume_ratio": 1.414,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -650,7 +650,7 @@
           "average_volume": 23660333.8,
           "volume_ratio": 1.728,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -670,7 +670,7 @@
           "average_volume": 632534.8,
           "volume_ratio": 1.026,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -690,7 +690,7 @@
           "average_volume": 558257.2,
           "volume_ratio": 1.89,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -710,7 +710,7 @@
           "average_volume": 2168184.6,
           "volume_ratio": 1.208,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -730,7 +730,7 @@
           "average_volume": 939136.6,
           "volume_ratio": 1.038,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -750,7 +750,7 @@
           "average_volume": 805474.2,
           "volume_ratio": 1.178,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -770,7 +770,7 @@
           "average_volume": 7117638.0,
           "volume_ratio": 0.576,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -790,7 +790,7 @@
           "average_volume": 435111.2,
           "volume_ratio": 1.343,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:39Z",
+          "received_timestamp_utc": "2026-11-26T20:35:56Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -810,7 +810,7 @@
           "average_volume": 6939780.0,
           "volume_ratio": 1.554,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -830,7 +830,7 @@
           "average_volume": 7174018.0,
           "volume_ratio": 0.802,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -850,7 +850,7 @@
           "average_volume": 31107034.4,
           "volume_ratio": 1.071,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -870,7 +870,7 @@
           "average_volume": 675059.0,
           "volume_ratio": 1.13,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -890,7 +890,7 @@
           "average_volume": 32443196.2,
           "volume_ratio": 0.868,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -910,7 +910,7 @@
           "average_volume": 154511.2,
           "volume_ratio": 1.28,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -930,7 +930,7 @@
           "average_volume": 44444.0,
           "volume_ratio": 0.419,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -950,7 +950,7 @@
           "average_volume": 348190.6,
           "volume_ratio": 0.596,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -970,7 +970,7 @@
           "average_volume": 844986.0,
           "volume_ratio": 0.384,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -990,7 +990,7 @@
           "average_volume": 8250.4,
           "volume_ratio": 3.066,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1010,7 +1010,7 @@
           "average_volume": 281244.4,
           "volume_ratio": 0.851,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1030,7 +1030,7 @@
           "average_volume": 19033.0,
           "volume_ratio": 0.691,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1050,7 +1050,7 @@
           "average_volume": 867015.2,
           "volume_ratio": 0.631,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1070,7 +1070,7 @@
           "average_volume": 844874.4,
           "volume_ratio": 1.32,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1090,7 +1090,7 @@
           "average_volume": 2804517.8,
           "volume_ratio": 1.058,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1110,7 +1110,7 @@
           "average_volume": 95199.8,
           "volume_ratio": 0.448,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1130,7 +1130,7 @@
           "average_volume": 34407.0,
           "volume_ratio": 1.059,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1150,7 +1150,7 @@
           "average_volume": 11887412.6,
           "volume_ratio": 1.402,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1170,7 +1170,7 @@
           "average_volume": 247483.6,
           "volume_ratio": 0.964,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1190,7 +1190,7 @@
           "average_volume": 218795.2,
           "volume_ratio": 0.843,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1210,7 +1210,7 @@
           "average_volume": 715442.0,
           "volume_ratio": 0.662,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1230,7 +1230,7 @@
           "average_volume": 3584969.8,
           "volume_ratio": 1.211,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1250,7 +1250,7 @@
           "average_volume": 714494.0,
           "volume_ratio": 0.995,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1270,7 +1270,7 @@
           "average_volume": 701819.8,
           "volume_ratio": 0.609,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1290,7 +1290,7 @@
           "average_volume": 17070.8,
           "volume_ratio": 0.282,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1310,7 +1310,7 @@
           "average_volume": 40590.4,
           "volume_ratio": 0.937,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1330,7 +1330,7 @@
           "average_volume": 449488.2,
           "volume_ratio": 0.297,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1350,7 +1350,7 @@
           "average_volume": 13936.4,
           "volume_ratio": 2.71,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1370,7 +1370,7 @@
           "average_volume": 345378.8,
           "volume_ratio": 1.301,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1390,7 +1390,7 @@
           "average_volume": 3453680.2,
           "volume_ratio": 1.684,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1410,7 +1410,7 @@
           "average_volume": 3640161.6,
           "volume_ratio": 0.855,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1430,7 +1430,7 @@
           "average_volume": 199249.8,
           "volume_ratio": 0.672,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1450,7 +1450,7 @@
           "average_volume": 331535.4,
           "volume_ratio": 1.098,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1470,7 +1470,7 @@
           "average_volume": 772689.0,
           "volume_ratio": 2.788,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1490,7 +1490,7 @@
           "average_volume": 4735786.2,
           "volume_ratio": 3.24,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1510,7 +1510,7 @@
           "average_volume": 7293823.0,
           "volume_ratio": 1.267,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1530,7 +1530,7 @@
           "average_volume": 3910845.6,
           "volume_ratio": 0.852,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1550,7 +1550,7 @@
           "average_volume": 153716.0,
           "volume_ratio": 1.769,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1570,7 +1570,7 @@
           "average_volume": 14537264.0,
           "volume_ratio": 0.875,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1590,7 +1590,7 @@
           "average_volume": 324789.4,
           "volume_ratio": 0.656,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:43Z",
+          "received_timestamp_utc": "2026-11-26T20:36:01Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1610,7 +1610,7 @@
           "average_volume": 1700541.8,
           "volume_ratio": 0.571,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1630,7 +1630,7 @@
           "average_volume": 1009083.4,
           "volume_ratio": 0.913,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1650,7 +1650,7 @@
           "average_volume": 471423.2,
           "volume_ratio": 1.051,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1670,7 +1670,7 @@
           "average_volume": 183270.0,
           "volume_ratio": 1.391,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1690,7 +1690,7 @@
           "average_volume": 271721.6,
           "volume_ratio": 1.448,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1710,7 +1710,7 @@
           "average_volume": 103936.6,
           "volume_ratio": 0.589,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1730,7 +1730,7 @@
           "average_volume": 167183.4,
           "volume_ratio": 1.293,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1750,7 +1750,7 @@
           "average_volume": 947875.4,
           "volume_ratio": 1.665,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1770,7 +1770,7 @@
           "average_volume": 1359758.0,
           "volume_ratio": 1.766,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1790,7 +1790,7 @@
           "average_volume": 213629.0,
           "volume_ratio": 0.946,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1810,7 +1810,7 @@
           "average_volume": 1191145.6,
           "volume_ratio": 1.857,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1830,7 +1830,7 @@
           "average_volume": 36358.6,
           "volume_ratio": 0.994,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1850,7 +1850,7 @@
           "average_volume": 39301819.8,
           "volume_ratio": 0.641,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1870,7 +1870,7 @@
           "average_volume": 135413615.6,
           "volume_ratio": 0.754,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1890,7 +1890,7 @@
           "average_volume": 4664823.2,
           "volume_ratio": 1.203,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1910,7 +1910,7 @@
           "average_volume": 7041422.6,
           "volume_ratio": 0.365,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1930,7 +1930,7 @@
           "average_volume": 121816.2,
           "volume_ratio": 0.461,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1950,7 +1950,7 @@
           "average_volume": 718173.4,
           "volume_ratio": 0.71,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1970,7 +1970,7 @@
           "average_volume": 363989.4,
           "volume_ratio": 1.145,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -1990,7 +1990,7 @@
           "average_volume": 76457423.0,
           "volume_ratio": 0.649,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2010,7 +2010,7 @@
           "average_volume": 12510.8,
           "volume_ratio": 0.813,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2030,7 +2030,7 @@
           "average_volume": 2707121.2,
           "volume_ratio": 0.565,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2050,7 +2050,7 @@
           "average_volume": 1981569.8,
           "volume_ratio": 1.226,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2070,7 +2070,7 @@
           "average_volume": 4167075.6,
           "volume_ratio": 1.19,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2090,7 +2090,7 @@
           "average_volume": 1467087.6,
           "volume_ratio": 0.969,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2110,7 +2110,7 @@
           "average_volume": 839690.0,
           "volume_ratio": 0.726,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2130,7 +2130,7 @@
           "average_volume": 4037533.2,
           "volume_ratio": 1.281,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2150,7 +2150,7 @@
           "average_volume": 13960.8,
           "volume_ratio": 0.626,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2170,7 +2170,7 @@
           "average_volume": 8961.4,
           "volume_ratio": 0.574,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2190,7 +2190,7 @@
           "average_volume": 7948.0,
           "volume_ratio": 0.843,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2210,7 +2210,7 @@
           "average_volume": 2182617.4,
           "volume_ratio": 1.336,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2230,7 +2230,7 @@
           "average_volume": 31566.0,
           "volume_ratio": 1.165,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2250,7 +2250,7 @@
           "average_volume": 3054636.8,
           "volume_ratio": 0.635,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2270,7 +2270,7 @@
           "average_volume": 1156298.6,
           "volume_ratio": 0.569,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2290,7 +2290,7 @@
           "average_volume": 1344001.6,
           "volume_ratio": 1.855,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2310,7 +2310,7 @@
           "average_volume": 34478558.0,
           "volume_ratio": 0.981,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2330,7 +2330,7 @@
           "average_volume": 30391907.6,
           "volume_ratio": 1.282,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2350,7 +2350,7 @@
           "average_volume": 3363620.4,
           "volume_ratio": 0.529,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2370,7 +2370,7 @@
           "average_volume": 30683386.0,
           "volume_ratio": 0.574,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:47Z",
+          "received_timestamp_utc": "2026-11-26T20:36:05Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2390,7 +2390,7 @@
           "average_volume": 10005069.2,
           "volume_ratio": 0.354,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2410,7 +2410,7 @@
           "average_volume": 19167768.4,
           "volume_ratio": 0.918,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2430,7 +2430,7 @@
           "average_volume": 4851242.2,
           "volume_ratio": 1.356,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2450,7 +2450,7 @@
           "average_volume": 170860.8,
           "volume_ratio": 0.416,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2470,7 +2470,7 @@
           "average_volume": 893948.0,
           "volume_ratio": 0.88,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2490,7 +2490,7 @@
           "average_volume": 121451.4,
           "volume_ratio": 1.602,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2510,7 +2510,7 @@
           "average_volume": 129063.2,
           "volume_ratio": 1.526,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2530,7 +2530,7 @@
           "average_volume": 227134.6,
           "volume_ratio": 2.04,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2550,7 +2550,7 @@
           "average_volume": 81094.2,
           "volume_ratio": 0.722,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2570,7 +2570,7 @@
           "average_volume": 3863080.6,
           "volume_ratio": 0.607,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2590,7 +2590,7 @@
           "average_volume": 21427.2,
           "volume_ratio": 0.72,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2610,7 +2610,7 @@
           "average_volume": 1252743.4,
           "volume_ratio": 0.806,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2630,7 +2630,7 @@
           "average_volume": 32987236.2,
           "volume_ratio": 0.367,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2650,7 +2650,7 @@
           "average_volume": 474887.4,
           "volume_ratio": 3.628,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2670,7 +2670,7 @@
           "average_volume": 1817691.0,
           "volume_ratio": 0.324,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2690,7 +2690,7 @@
           "average_volume": 1275394.4,
           "volume_ratio": 0.693,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2710,7 +2710,7 @@
           "average_volume": 543159.2,
           "volume_ratio": 0.378,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2730,7 +2730,7 @@
           "average_volume": 10946912.8,
           "volume_ratio": 1.683,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2750,7 +2750,7 @@
           "average_volume": 80396.2,
           "volume_ratio": 0.226,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2770,7 +2770,7 @@
           "average_volume": 6106737.2,
           "volume_ratio": 1.21,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2790,7 +2790,7 @@
           "average_volume": 406557.4,
           "volume_ratio": 1.385,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2810,7 +2810,7 @@
           "average_volume": 2055432.6,
           "volume_ratio": 1.043,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2830,7 +2830,7 @@
           "average_volume": 523797.4,
           "volume_ratio": 0.627,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2850,7 +2850,7 @@
           "average_volume": 1857723.4,
           "volume_ratio": 1.681,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2870,7 +2870,7 @@
           "average_volume": 223700.0,
           "volume_ratio": 1.129,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2890,7 +2890,7 @@
           "average_volume": 17207816.2,
           "volume_ratio": 0.459,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2910,7 +2910,7 @@
           "average_volume": 340961.8,
           "volume_ratio": 1.729,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2930,7 +2930,7 @@
           "average_volume": 15524.8,
           "volume_ratio": 0.695,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2950,7 +2950,7 @@
           "average_volume": 4426478.6,
           "volume_ratio": 1.534,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2970,7 +2970,7 @@
           "average_volume": 1740409.2,
           "volume_ratio": 1.267,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -2990,7 +2990,7 @@
           "average_volume": 646443.4,
           "volume_ratio": 0.881,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3010,7 +3010,7 @@
           "average_volume": 3097365.4,
           "volume_ratio": 0.287,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3030,7 +3030,7 @@
           "average_volume": 63366440.8,
           "volume_ratio": 1.079,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3050,7 +3050,7 @@
           "average_volume": 12626.2,
           "volume_ratio": 0.692,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3070,7 +3070,7 @@
           "average_volume": 1526661.4,
           "volume_ratio": 1.447,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3090,7 +3090,7 @@
           "average_volume": 312215.0,
           "volume_ratio": 0.941,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3110,7 +3110,7 @@
           "average_volume": 10900367.4,
           "volume_ratio": 0.374,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3130,7 +3130,7 @@
           "average_volume": 2977.8,
           "volume_ratio": 0.352,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3150,7 +3150,7 @@
           "average_volume": 19840399.4,
           "volume_ratio": 0.97,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:52Z",
+          "received_timestamp_utc": "2026-11-26T20:36:09Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3170,7 +3170,7 @@
           "average_volume": 2867365.6,
           "volume_ratio": 1.436,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3190,7 +3190,7 @@
           "average_volume": 8100991.0,
           "volume_ratio": 0.872,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3210,7 +3210,7 @@
           "average_volume": 3776460.2,
           "volume_ratio": 0.934,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3230,7 +3230,7 @@
           "average_volume": 3886572.8,
           "volume_ratio": 1.099,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3250,7 +3250,7 @@
           "average_volume": 126802.2,
           "volume_ratio": 0.253,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3270,7 +3270,7 @@
           "average_volume": 561969.8,
           "volume_ratio": 1.267,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3290,7 +3290,7 @@
           "average_volume": 129686064.0,
           "volume_ratio": 0.646,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3310,7 +3310,7 @@
           "average_volume": 386686.2,
           "volume_ratio": 0.538,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3330,7 +3330,7 @@
           "average_volume": 1762077.4,
           "volume_ratio": 2.091,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3350,7 +3350,7 @@
           "average_volume": 9751628.2,
           "volume_ratio": 0.807,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3370,7 +3370,7 @@
           "average_volume": 9454413.6,
           "volume_ratio": 0.661,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3390,7 +3390,7 @@
           "average_volume": 2835354.8,
           "volume_ratio": 3.289,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3410,7 +3410,7 @@
           "average_volume": 569987.6,
           "volume_ratio": 1.156,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3430,7 +3430,7 @@
           "average_volume": 222927.0,
           "volume_ratio": 0.518,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3450,7 +3450,7 @@
           "average_volume": 294647.6,
           "volume_ratio": 0.837,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3470,7 +3470,7 @@
           "average_volume": 15347856.8,
           "volume_ratio": 1.452,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3490,7 +3490,7 @@
           "average_volume": 8895952.0,
           "volume_ratio": 1.205,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3510,7 +3510,7 @@
           "average_volume": 355859.0,
           "volume_ratio": 0.667,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3530,7 +3530,7 @@
           "average_volume": 2328326.2,
           "volume_ratio": 0.483,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3550,7 +3550,7 @@
           "average_volume": 591361.8,
           "volume_ratio": 1.738,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3570,7 +3570,7 @@
           "average_volume": 5395808.0,
           "volume_ratio": 0.706,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3590,7 +3590,7 @@
           "average_volume": 58126.4,
           "volume_ratio": 0.577,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3610,7 +3610,7 @@
           "average_volume": 11154548.0,
           "volume_ratio": 1.238,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3630,7 +3630,7 @@
           "average_volume": 6690149.8,
           "volume_ratio": 1.014,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3650,7 +3650,7 @@
           "average_volume": 470930.4,
           "volume_ratio": 0.754,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3670,7 +3670,7 @@
           "average_volume": 29739738.8,
           "volume_ratio": 0.51,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3690,7 +3690,7 @@
           "average_volume": 10934387.4,
           "volume_ratio": 1.459,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3710,7 +3710,7 @@
           "average_volume": 19293984.8,
           "volume_ratio": 1.028,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3730,7 +3730,7 @@
           "average_volume": 28035792.6,
           "volume_ratio": 0.979,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3750,7 +3750,7 @@
           "average_volume": 370784.4,
           "volume_ratio": 0.997,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3770,7 +3770,7 @@
           "average_volume": 1914933.0,
           "volume_ratio": 0.476,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3790,7 +3790,7 @@
           "average_volume": 187503.4,
           "volume_ratio": 1.006,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3810,7 +3810,7 @@
           "average_volume": 54416677.8,
           "volume_ratio": 0.969,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3830,7 +3830,7 @@
           "average_volume": 2460091.6,
           "volume_ratio": 0.819,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3850,7 +3850,7 @@
           "average_volume": 6669551.4,
           "volume_ratio": 2.4,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3870,7 +3870,7 @@
           "average_volume": 4537779.2,
           "volume_ratio": 1.249,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3890,7 +3890,7 @@
           "average_volume": 1719977.0,
           "volume_ratio": 0.654,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3910,7 +3910,7 @@
           "average_volume": 153229.0,
           "volume_ratio": 1.113,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3930,7 +3930,7 @@
           "average_volume": 181371.0,
           "volume_ratio": 0.951,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3950,7 +3950,7 @@
           "average_volume": 17321400.8,
           "volume_ratio": 1.129,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:02:56Z",
+          "received_timestamp_utc": "2026-11-26T20:36:13Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3970,7 +3970,7 @@
           "average_volume": 4897597.6,
           "volume_ratio": 0.682,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -3990,7 +3990,7 @@
           "average_volume": 2609794.0,
           "volume_ratio": 0.687,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4010,7 +4010,7 @@
           "average_volume": 1698553.6,
           "volume_ratio": 0.69,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4030,7 +4030,7 @@
           "average_volume": 106083.2,
           "volume_ratio": 1.905,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4050,7 +4050,7 @@
           "average_volume": 6183890.6,
           "volume_ratio": 0.371,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4070,7 +4070,7 @@
           "average_volume": 563574.6,
           "volume_ratio": 0.575,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4090,7 +4090,7 @@
           "average_volume": 213241.4,
           "volume_ratio": 1.991,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4110,7 +4110,7 @@
           "average_volume": 224954.2,
           "volume_ratio": 0.546,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4130,7 +4130,7 @@
           "average_volume": 1335747.0,
           "volume_ratio": 0.776,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4150,7 +4150,7 @@
           "average_volume": 4674872.2,
           "volume_ratio": 0.631,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4170,7 +4170,7 @@
           "average_volume": 2008949.4,
           "volume_ratio": 1.118,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4190,7 +4190,7 @@
           "average_volume": 1182955.4,
           "volume_ratio": 0.892,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4210,7 +4210,7 @@
           "average_volume": 722787.8,
           "volume_ratio": 0.433,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4230,7 +4230,7 @@
           "average_volume": 14374268.4,
           "volume_ratio": 1.179,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4250,7 +4250,7 @@
           "average_volume": 196704.6,
           "volume_ratio": 0.8,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4270,7 +4270,7 @@
           "average_volume": 1167607.4,
           "volume_ratio": 0.788,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4290,7 +4290,7 @@
           "average_volume": 77505494.0,
           "volume_ratio": 0.318,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4310,7 +4310,7 @@
           "average_volume": 248283267.4,
           "volume_ratio": 0.398,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4330,7 +4330,7 @@
           "average_volume": 118126712.2,
           "volume_ratio": 1.669,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4350,7 +4350,7 @@
           "average_volume": 5115100.6,
           "volume_ratio": 0.368,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4370,7 +4370,7 @@
           "average_volume": 10001835.2,
           "volume_ratio": 1.197,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4390,7 +4390,7 @@
           "average_volume": 278679.6,
           "volume_ratio": 0.553,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4410,7 +4410,7 @@
           "average_volume": 893426.0,
           "volume_ratio": 0.507,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4430,7 +4430,7 @@
           "average_volume": 32875691.6,
           "volume_ratio": 0.791,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4450,7 +4450,7 @@
           "average_volume": 1362481.2,
           "volume_ratio": 1.117,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4470,7 +4470,7 @@
           "average_volume": 1237634.4,
           "volume_ratio": 0.578,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4490,7 +4490,7 @@
           "average_volume": 26768276.0,
           "volume_ratio": 1.116,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4510,7 +4510,7 @@
           "average_volume": 4847935.2,
           "volume_ratio": 0.023,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4530,7 +4530,7 @@
           "average_volume": 12392890.2,
           "volume_ratio": 3.741,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4550,7 +4550,7 @@
           "average_volume": 3915867.8,
           "volume_ratio": 1.015,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4570,7 +4570,7 @@
           "average_volume": 10073698.0,
           "volume_ratio": 1.017,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4590,7 +4590,7 @@
           "average_volume": 47368341.4,
           "volume_ratio": 0.097,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4610,7 +4610,7 @@
           "average_volume": 249630566.2,
           "volume_ratio": 0.438,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4630,7 +4630,7 @@
           "average_volume": 96397677.4,
           "volume_ratio": 1.414,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4650,7 +4650,7 @@
           "average_volume": 7875618.2,
           "volume_ratio": 0.451,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4670,7 +4670,7 @@
           "average_volume": 6421689.4,
           "volume_ratio": 2.211,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4690,7 +4690,7 @@
           "average_volume": 7852841.0,
           "volume_ratio": 0.786,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4710,7 +4710,7 @@
           "average_volume": 278606005.8,
           "volume_ratio": 0.486,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:00Z",
+          "received_timestamp_utc": "2026-11-26T20:36:17Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4730,7 +4730,7 @@
           "average_volume": 22570.8,
           "volume_ratio": 0.588,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4750,7 +4750,7 @@
           "average_volume": 29952.0,
           "volume_ratio": 1.315,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4770,7 +4770,7 @@
           "average_volume": 1436488.8,
           "volume_ratio": 0.692,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4790,7 +4790,7 @@
           "average_volume": 18111.2,
           "volume_ratio": 0.636,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4810,7 +4810,7 @@
           "average_volume": 0.0,
           "volume_ratio": 0.0,
           "source_data_date": "2026-11-25",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 1,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4830,7 +4830,7 @@
           "average_volume": 18098.4,
           "volume_ratio": 1.96,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4850,7 +4850,7 @@
           "average_volume": 1.8,
           "volume_ratio": 2.778,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4870,7 +4870,7 @@
           "average_volume": 337227305.8,
           "volume_ratio": 1.263,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4890,7 +4890,7 @@
           "average_volume": 1119186.2,
           "volume_ratio": 1.052,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4910,7 +4910,7 @@
           "average_volume": 1921688.0,
           "volume_ratio": 0.308,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4930,7 +4930,7 @@
           "average_volume": 8238204.2,
           "volume_ratio": 0.499,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4950,7 +4950,7 @@
           "average_volume": 450123.0,
           "volume_ratio": 0.894,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4970,7 +4970,7 @@
           "average_volume": 54322920.4,
           "volume_ratio": 0.664,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -4990,7 +4990,7 @@
           "average_volume": 3009070.6,
           "volume_ratio": 0.762,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5010,7 +5010,7 @@
           "average_volume": 307128.2,
           "volume_ratio": 3.494,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5030,7 +5030,7 @@
           "average_volume": 212926.4,
           "volume_ratio": 0.687,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5050,7 +5050,7 @@
           "average_volume": 9888952.6,
           "volume_ratio": 0.303,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5070,7 +5070,7 @@
           "average_volume": 12062241.0,
           "volume_ratio": 0.86,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5090,7 +5090,7 @@
           "average_volume": 516125.0,
           "volume_ratio": 0.399,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5110,7 +5110,7 @@
           "average_volume": 6796003.0,
           "volume_ratio": 0.539,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5130,7 +5130,7 @@
           "average_volume": 1980211.8,
           "volume_ratio": 0.746,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5150,7 +5150,7 @@
           "average_volume": 266611.2,
           "volume_ratio": 0.691,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5170,7 +5170,7 @@
           "average_volume": 6388996.6,
           "volume_ratio": 1.296,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5190,7 +5190,7 @@
           "average_volume": 6419663.6,
           "volume_ratio": 1.028,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5210,7 +5210,7 @@
           "average_volume": 1202748.6,
           "volume_ratio": 2.053,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5230,7 +5230,7 @@
           "average_volume": 82926993.6,
           "volume_ratio": 2.465,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5250,7 +5250,7 @@
           "average_volume": 6258269.6,
           "volume_ratio": 3.71,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5270,7 +5270,7 @@
           "average_volume": 26799235.4,
           "volume_ratio": 0.81,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5290,7 +5290,7 @@
           "average_volume": 2945.6,
           "volume_ratio": 0.806,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5310,7 +5310,7 @@
           "average_volume": 404803.0,
           "volume_ratio": 0.569,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5330,7 +5330,7 @@
           "average_volume": 1122415.6,
           "volume_ratio": 0.593,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5350,7 +5350,7 @@
           "average_volume": 10662650.2,
           "volume_ratio": 0.802,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5370,7 +5370,7 @@
           "average_volume": 803503.4,
           "volume_ratio": 0.458,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5390,7 +5390,7 @@
           "average_volume": 3554108.8,
           "volume_ratio": 0.706,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5410,7 +5410,7 @@
           "average_volume": 574592.8,
           "volume_ratio": 0.748,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:04Z",
+          "received_timestamp_utc": "2026-11-26T20:36:21Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5430,7 +5430,7 @@
           "average_volume": 186093.4,
           "volume_ratio": 0.931,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5450,7 +5450,7 @@
           "average_volume": 169546.2,
           "volume_ratio": 0.552,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5470,7 +5470,7 @@
           "average_volume": 18048106.6,
           "volume_ratio": 0.817,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5490,7 +5490,7 @@
           "average_volume": 700934.8,
           "volume_ratio": 1.085,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5510,7 +5510,7 @@
           "average_volume": 3503256.0,
           "volume_ratio": 0.525,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5530,7 +5530,7 @@
           "average_volume": 1268111.6,
           "volume_ratio": 0.83,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5550,7 +5550,7 @@
           "average_volume": 1780379.6,
           "volume_ratio": 0.874,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5570,7 +5570,7 @@
           "average_volume": 658322.6,
           "volume_ratio": 0.433,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5590,7 +5590,7 @@
           "average_volume": 2856057.8,
           "volume_ratio": 0.709,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5610,7 +5610,7 @@
           "average_volume": 6890.8,
           "volume_ratio": 0.637,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5630,7 +5630,7 @@
           "average_volume": 4354275.4,
           "volume_ratio": 1.072,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5650,7 +5650,7 @@
           "average_volume": 14216494.4,
           "volume_ratio": 0.594,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5670,7 +5670,7 @@
           "average_volume": 2934326.2,
           "volume_ratio": 1.197,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5690,7 +5690,7 @@
           "average_volume": 2583574.6,
           "volume_ratio": 0.928,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5710,7 +5710,7 @@
           "average_volume": 22111500.8,
           "volume_ratio": 0.985,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5730,7 +5730,7 @@
           "average_volume": 20657785.0,
           "volume_ratio": 0.779,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5750,7 +5750,7 @@
           "average_volume": 496452.4,
           "volume_ratio": 1.675,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5770,7 +5770,7 @@
           "average_volume": 1653446.4,
           "volume_ratio": 1.052,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5790,7 +5790,7 @@
           "average_volume": 4117229.2,
           "volume_ratio": 0.998,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5810,7 +5810,7 @@
           "average_volume": 1278130.4,
           "volume_ratio": 1.581,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5830,7 +5830,7 @@
           "average_volume": 7243420.2,
           "volume_ratio": 0.643,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5850,7 +5850,7 @@
           "average_volume": 425.2,
           "volume_ratio": 1.157,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5870,7 +5870,7 @@
           "average_volume": 503593237.8,
           "volume_ratio": 0.014,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5890,7 +5890,7 @@
           "average_volume": 106841.2,
           "volume_ratio": 0.555,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5910,7 +5910,7 @@
           "average_volume": 100354.0,
           "volume_ratio": 0.933,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5930,7 +5930,7 @@
           "average_volume": 81614.0,
           "volume_ratio": 1.695,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5950,7 +5950,7 @@
           "average_volume": 27427784.8,
           "volume_ratio": 0.444,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5970,7 +5970,7 @@
           "average_volume": 23743282.6,
           "volume_ratio": 1.148,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -5990,7 +5990,7 @@
           "average_volume": 979102.6,
           "volume_ratio": 0.486,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6010,7 +6010,7 @@
           "average_volume": 20524790.2,
           "volume_ratio": 0.161,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6030,7 +6030,7 @@
           "average_volume": 3927491.0,
           "volume_ratio": 0.935,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6050,7 +6050,7 @@
           "average_volume": 7096537.6,
           "volume_ratio": 0.588,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6070,7 +6070,7 @@
           "average_volume": 1240401.8,
           "volume_ratio": 0.941,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6090,7 +6090,7 @@
           "average_volume": 340679.8,
           "volume_ratio": 0.722,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6110,7 +6110,7 @@
           "average_volume": 81067.8,
           "volume_ratio": 1.018,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6130,7 +6130,7 @@
           "average_volume": 18458.8,
           "volume_ratio": 1.127,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6150,7 +6150,7 @@
           "average_volume": 298552.2,
           "volume_ratio": 1.044,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6170,7 +6170,7 @@
           "average_volume": 43056783.2,
           "volume_ratio": 0.163,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:08Z",
+          "received_timestamp_utc": "2026-11-26T20:36:25Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6190,7 +6190,7 @@
           "average_volume": 532530.4,
           "volume_ratio": 1.121,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6210,7 +6210,7 @@
           "average_volume": 1975522.6,
           "volume_ratio": 3.799,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6230,7 +6230,7 @@
           "average_volume": 55140036.0,
           "volume_ratio": 2.919,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6250,7 +6250,7 @@
           "average_volume": 4757938.2,
           "volume_ratio": 0.663,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6270,7 +6270,7 @@
           "average_volume": 154634.0,
           "volume_ratio": 0.693,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6290,7 +6290,7 @@
           "average_volume": 577233.4,
           "volume_ratio": 0.849,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6310,7 +6310,7 @@
           "average_volume": 165781.6,
           "volume_ratio": 0.865,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6330,7 +6330,7 @@
           "average_volume": 5097526.6,
           "volume_ratio": 1.06,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6350,7 +6350,7 @@
           "average_volume": 1000525.4,
           "volume_ratio": 0.652,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6370,7 +6370,7 @@
           "average_volume": 5814681.2,
           "volume_ratio": 0.561,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6390,7 +6390,7 @@
           "average_volume": 2113427.6,
           "volume_ratio": 1.693,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6410,7 +6410,7 @@
           "average_volume": 6224790.0,
           "volume_ratio": 0.985,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6430,7 +6430,7 @@
           "average_volume": 70941.2,
           "volume_ratio": 0.487,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6450,7 +6450,7 @@
           "average_volume": 823784.4,
           "volume_ratio": 0.944,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6470,7 +6470,7 @@
           "average_volume": 1047569.4,
           "volume_ratio": 0.503,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6490,7 +6490,7 @@
           "average_volume": 5181430.0,
           "volume_ratio": 0.447,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6510,7 +6510,7 @@
           "average_volume": 431170.8,
           "volume_ratio": 0.613,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6530,7 +6530,7 @@
           "average_volume": 9778.2,
           "volume_ratio": 0.735,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6550,7 +6550,7 @@
           "average_volume": 1995525.0,
           "volume_ratio": 0.992,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6570,7 +6570,7 @@
           "average_volume": 686686.4,
           "volume_ratio": 1.975,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6590,7 +6590,7 @@
           "average_volume": 153024.0,
           "volume_ratio": 1.301,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6610,7 +6610,7 @@
           "average_volume": 137116.8,
           "volume_ratio": 0.94,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6630,7 +6630,7 @@
           "average_volume": 2658488.8,
           "volume_ratio": 1.414,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6650,7 +6650,7 @@
           "average_volume": 1669634.2,
           "volume_ratio": 0.412,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6670,7 +6670,7 @@
           "average_volume": 3395727.0,
           "volume_ratio": 0.909,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6690,7 +6690,7 @@
           "average_volume": 3442739.0,
           "volume_ratio": 0.856,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6710,7 +6710,7 @@
           "average_volume": 868678.4,
           "volume_ratio": 1.459,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6730,7 +6730,7 @@
           "average_volume": 2948882.6,
           "volume_ratio": 0.229,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6750,7 +6750,7 @@
           "average_volume": 142950.0,
           "volume_ratio": 0.397,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6770,7 +6770,7 @@
           "average_volume": 160207.4,
           "volume_ratio": 1.099,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6790,7 +6790,7 @@
           "average_volume": 22150084.4,
           "volume_ratio": 1.079,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6810,7 +6810,7 @@
           "average_volume": 175478.2,
           "volume_ratio": 0.785,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6830,7 +6830,7 @@
           "average_volume": 617208.6,
           "volume_ratio": 0.638,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6850,7 +6850,7 @@
           "average_volume": 816354.0,
           "volume_ratio": 2.379,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6870,7 +6870,7 @@
           "average_volume": 3498134.4,
           "volume_ratio": 1.101,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6890,7 +6890,7 @@
           "average_volume": 3054.8,
           "volume_ratio": 1.12,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6910,7 +6910,7 @@
           "average_volume": 1460525.8,
           "volume_ratio": 0.41,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:13Z",
+          "received_timestamp_utc": "2026-11-26T20:36:30Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6930,7 +6930,7 @@
           "average_volume": 6722430.2,
           "volume_ratio": 0.74,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6950,7 +6950,7 @@
           "average_volume": 301977.2,
           "volume_ratio": 0.514,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6970,7 +6970,7 @@
           "average_volume": 156893.8,
           "volume_ratio": 0.924,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -6990,7 +6990,7 @@
           "average_volume": 5179427.6,
           "volume_ratio": 2.029,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7010,7 +7010,7 @@
           "average_volume": 94543.4,
           "volume_ratio": 1.603,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7030,7 +7030,7 @@
           "average_volume": 142928.4,
           "volume_ratio": 1.594,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7050,7 +7050,7 @@
           "average_volume": 297502.2,
           "volume_ratio": 0.98,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7070,7 +7070,7 @@
           "average_volume": 4827715.4,
           "volume_ratio": 0.694,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7090,7 +7090,7 @@
           "average_volume": 1440800.8,
           "volume_ratio": 2.009,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7110,7 +7110,7 @@
           "average_volume": 321428.6,
           "volume_ratio": 0.745,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7130,7 +7130,7 @@
           "average_volume": 886885.2,
           "volume_ratio": 0.986,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7150,7 +7150,7 @@
           "average_volume": 70938.2,
           "volume_ratio": 0.26,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7170,7 +7170,7 @@
           "average_volume": 71511.2,
           "volume_ratio": 3.64,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7190,7 +7190,7 @@
           "average_volume": 1557852.6,
           "volume_ratio": 1.156,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7210,7 +7210,7 @@
           "average_volume": 154064.2,
           "volume_ratio": 0.966,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7230,7 +7230,7 @@
           "average_volume": 25028058.2,
           "volume_ratio": 1.196,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7250,7 +7250,7 @@
           "average_volume": 690708.4,
           "volume_ratio": 0.787,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7270,7 +7270,7 @@
           "average_volume": 297866273.0,
           "volume_ratio": 0.005,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7290,7 +7290,7 @@
           "average_volume": 2371418.0,
           "volume_ratio": 0.727,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7310,7 +7310,7 @@
           "average_volume": 3637833.0,
           "volume_ratio": 1.241,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7330,7 +7330,7 @@
           "average_volume": 48510635.0,
           "volume_ratio": 1.067,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7350,7 +7350,7 @@
           "average_volume": 780489.0,
           "volume_ratio": 1.06,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7370,7 +7370,7 @@
           "average_volume": 8260062.8,
           "volume_ratio": 0.902,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7390,7 +7390,7 @@
           "average_volume": 1383990.8,
           "volume_ratio": 0.868,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7410,7 +7410,7 @@
           "average_volume": 1043874.2,
           "volume_ratio": 0.769,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7430,7 +7430,7 @@
           "average_volume": 363688.2,
           "volume_ratio": 0.728,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7450,7 +7450,7 @@
           "average_volume": 424011.6,
           "volume_ratio": 1.056,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7470,7 +7470,7 @@
           "average_volume": 345710.0,
           "volume_ratio": 0.862,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7490,7 +7490,7 @@
           "average_volume": 665055.4,
           "volume_ratio": 0.876,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7510,7 +7510,7 @@
           "average_volume": 854757.0,
           "volume_ratio": 0.59,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7530,7 +7530,7 @@
           "average_volume": 6118.6,
           "volume_ratio": 0.718,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7550,7 +7550,7 @@
           "average_volume": 4245374.2,
           "volume_ratio": 0.44,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7570,7 +7570,7 @@
           "average_volume": 447274.2,
           "volume_ratio": 0.662,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7590,7 +7590,7 @@
           "average_volume": 614398.2,
           "volume_ratio": 1.377,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7610,7 +7610,7 @@
           "average_volume": 20018027.4,
           "volume_ratio": 0.608,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7630,7 +7630,7 @@
           "average_volume": 159711.4,
           "volume_ratio": 0.583,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7650,7 +7650,7 @@
           "average_volume": 45471892.2,
           "volume_ratio": 1.695,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:17Z",
+          "received_timestamp_utc": "2026-11-26T20:36:34Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7670,7 +7670,7 @@
           "average_volume": 24762223.2,
           "volume_ratio": 3.102,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7690,7 +7690,7 @@
           "average_volume": 6277655.8,
           "volume_ratio": 0.721,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7710,7 +7710,7 @@
           "average_volume": 95356.6,
           "volume_ratio": 0.719,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7730,7 +7730,7 @@
           "average_volume": 20351888.8,
           "volume_ratio": 2.61,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7750,7 +7750,7 @@
           "average_volume": 2085937.8,
           "volume_ratio": 0.705,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7770,7 +7770,7 @@
           "average_volume": 68695.0,
           "volume_ratio": 1.503,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7790,7 +7790,7 @@
           "average_volume": 6612189.4,
           "volume_ratio": 1.357,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7810,7 +7810,7 @@
           "average_volume": 919204.8,
           "volume_ratio": 1.053,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7830,7 +7830,7 @@
           "average_volume": 1232387.0,
           "volume_ratio": 0.897,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7850,7 +7850,7 @@
           "average_volume": 4603433.6,
           "volume_ratio": 0.415,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7870,7 +7870,7 @@
           "average_volume": 1187501.4,
           "volume_ratio": 1.864,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7890,7 +7890,7 @@
           "average_volume": 26594498.6,
           "volume_ratio": 0.92,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7910,7 +7910,7 @@
           "average_volume": 1543068.6,
           "volume_ratio": 0.288,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7930,7 +7930,7 @@
           "average_volume": 198759.8,
           "volume_ratio": 0.834,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7950,7 +7950,7 @@
           "average_volume": 4291141.6,
           "volume_ratio": 0.417,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7970,7 +7970,7 @@
           "average_volume": 275216.2,
           "volume_ratio": 1.309,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -7990,7 +7990,7 @@
           "average_volume": 2524340.2,
           "volume_ratio": 1.017,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8010,7 +8010,7 @@
           "average_volume": 736497554.2,
           "volume_ratio": 3.878,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8030,7 +8030,7 @@
           "average_volume": 1120149.2,
           "volume_ratio": 0.527,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8050,7 +8050,7 @@
           "average_volume": 2364814.8,
           "volume_ratio": 0.943,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8070,7 +8070,7 @@
           "average_volume": 17188601.2,
           "volume_ratio": 0.579,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8090,7 +8090,7 @@
           "average_volume": 4686163.8,
           "volume_ratio": 0.408,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8110,7 +8110,7 @@
           "average_volume": 1560357.6,
           "volume_ratio": 0.649,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8130,7 +8130,7 @@
           "average_volume": 5077442.8,
           "volume_ratio": 0.728,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8150,7 +8150,7 @@
           "average_volume": 9742445.4,
           "volume_ratio": 2.11,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8170,7 +8170,7 @@
           "average_volume": 625663.2,
           "volume_ratio": 0.583,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8190,7 +8190,7 @@
           "average_volume": 1078365.8,
           "volume_ratio": 0.933,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8210,7 +8210,7 @@
           "average_volume": 32466073.2,
           "volume_ratio": 0.972,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8230,7 +8230,7 @@
           "average_volume": 35771887.8,
           "volume_ratio": 1.841,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8250,7 +8250,7 @@
           "average_volume": 29460343.2,
           "volume_ratio": 1.414,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8270,7 +8270,7 @@
           "average_volume": 1919925.2,
           "volume_ratio": 0.578,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8290,7 +8290,7 @@
           "average_volume": 7281862.0,
           "volume_ratio": 0.867,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8310,7 +8310,7 @@
           "average_volume": 10141431.0,
           "volume_ratio": 0.991,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8330,7 +8330,7 @@
           "average_volume": 2042412.4,
           "volume_ratio": 1.321,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8350,7 +8350,7 @@
           "average_volume": 20996.0,
           "volume_ratio": 2.739,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8370,7 +8370,7 @@
           "average_volume": 109252.0,
           "volume_ratio": 0.252,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8390,7 +8390,7 @@
           "average_volume": 1104801.8,
           "volume_ratio": 0.826,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8410,7 +8410,7 @@
           "average_volume": 5825997.0,
           "volume_ratio": 1.831,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:21Z",
+          "received_timestamp_utc": "2026-11-26T20:36:38Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8430,7 +8430,7 @@
           "average_volume": 11466.2,
           "volume_ratio": 1.587,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8450,7 +8450,7 @@
           "average_volume": 4497570.0,
           "volume_ratio": 1.892,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8470,7 +8470,7 @@
           "average_volume": 3860.6,
           "volume_ratio": 0.735,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8490,7 +8490,7 @@
           "average_volume": 1656956.4,
           "volume_ratio": 0.616,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8510,7 +8510,7 @@
           "average_volume": 1010039.4,
           "volume_ratio": 0.565,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8530,7 +8530,7 @@
           "average_volume": 47406.8,
           "volume_ratio": 0.74,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8550,7 +8550,7 @@
           "average_volume": 8473813.6,
           "volume_ratio": 0.796,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8570,7 +8570,7 @@
           "average_volume": 1204979.2,
           "volume_ratio": 0.876,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8590,7 +8590,7 @@
           "average_volume": 2895128.8,
           "volume_ratio": 0.8,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8610,7 +8610,7 @@
           "average_volume": 42844.8,
           "volume_ratio": 0.53,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8630,7 +8630,7 @@
           "average_volume": 14482810.8,
           "volume_ratio": 1.588,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8650,7 +8650,7 @@
           "average_volume": 664948.8,
           "volume_ratio": 0.546,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8670,7 +8670,7 @@
           "average_volume": 2914731.4,
           "volume_ratio": 1.036,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8690,7 +8690,7 @@
           "average_volume": 0.0,
           "volume_ratio": 0.0,
           "source_data_date": "2026-11-25",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 1,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8710,7 +8710,7 @@
           "average_volume": 1051977.0,
           "volume_ratio": 0.643,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8730,7 +8730,7 @@
           "average_volume": 752439.2,
           "volume_ratio": 2.121,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8750,7 +8750,7 @@
           "average_volume": 30500684.0,
           "volume_ratio": 0.872,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8770,7 +8770,7 @@
           "average_volume": 2581951.0,
           "volume_ratio": 1.246,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8790,7 +8790,7 @@
           "average_volume": 642502.2,
           "volume_ratio": 1.343,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8810,7 +8810,7 @@
           "average_volume": 85039.4,
           "volume_ratio": 0.609,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8830,7 +8830,7 @@
           "average_volume": 2640939.0,
           "volume_ratio": 1.773,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8850,7 +8850,7 @@
           "average_volume": 221467.0,
           "volume_ratio": 0.781,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8870,7 +8870,7 @@
           "average_volume": 984362.2,
           "volume_ratio": 1.015,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8890,7 +8890,7 @@
           "average_volume": 4307623.8,
           "volume_ratio": 1.308,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8910,7 +8910,7 @@
           "average_volume": 589537.2,
           "volume_ratio": 0.695,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8930,7 +8930,7 @@
           "average_volume": 2169052.6,
           "volume_ratio": 0.457,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8950,7 +8950,7 @@
           "average_volume": 2155556.4,
           "volume_ratio": 1.266,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8970,7 +8970,7 @@
           "average_volume": 1825204.8,
           "volume_ratio": 4.335,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -8990,7 +8990,7 @@
           "average_volume": 8880866.6,
           "volume_ratio": 2.24,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9010,7 +9010,7 @@
           "average_volume": 13434222.6,
           "volume_ratio": 1.618,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9030,7 +9030,7 @@
           "average_volume": 97051.4,
           "volume_ratio": 0.678,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9050,7 +9050,7 @@
           "average_volume": 6560014.0,
           "volume_ratio": 1.623,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9070,7 +9070,7 @@
           "average_volume": 41836716.4,
           "volume_ratio": 1.217,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9090,7 +9090,7 @@
           "average_volume": 19306391.8,
           "volume_ratio": 0.766,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9110,7 +9110,7 @@
           "average_volume": 4772136.6,
           "volume_ratio": 0.967,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9130,7 +9130,7 @@
           "average_volume": 137550.8,
           "volume_ratio": 0.96,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9150,7 +9150,7 @@
           "average_volume": 244800988.4,
           "volume_ratio": 1.082,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9170,7 +9170,7 @@
           "average_volume": 627632.6,
           "volume_ratio": 2.076,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9190,7 +9190,7 @@
           "average_volume": 181125.0,
           "volume_ratio": 0.78,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:25Z",
+          "received_timestamp_utc": "2026-11-26T20:36:42Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9210,7 +9210,7 @@
           "average_volume": 3267249.8,
           "volume_ratio": 0.701,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9230,7 +9230,7 @@
           "average_volume": 7013047.2,
           "volume_ratio": 0.718,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9250,7 +9250,7 @@
           "average_volume": 131621.2,
           "volume_ratio": 0.758,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9270,7 +9270,7 @@
           "average_volume": 2687613.0,
           "volume_ratio": 0.67,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9290,7 +9290,7 @@
           "average_volume": 0.0,
           "volume_ratio": 0.0,
           "source_data_date": "2026-11-25",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 1,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9310,7 +9310,7 @@
           "average_volume": 1507740.2,
           "volume_ratio": 0.9,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9330,7 +9330,7 @@
           "average_volume": 10454085.4,
           "volume_ratio": 0.492,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9350,7 +9350,7 @@
           "average_volume": 26922514.2,
           "volume_ratio": 0.828,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9370,7 +9370,7 @@
           "average_volume": 48861476.2,
           "volume_ratio": 0.97,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9390,7 +9390,7 @@
           "average_volume": 118651.0,
           "volume_ratio": 0.788,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9410,7 +9410,7 @@
           "average_volume": 131668.8,
           "volume_ratio": 1.28,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9430,7 +9430,7 @@
           "average_volume": 1047352.6,
           "volume_ratio": 0.714,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9450,7 +9450,7 @@
           "average_volume": 219797.8,
           "volume_ratio": 0.439,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9470,7 +9470,7 @@
           "average_volume": 32680.4,
           "volume_ratio": 0.374,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9490,7 +9490,7 @@
           "average_volume": 4772613.6,
           "volume_ratio": 1.553,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9510,7 +9510,7 @@
           "average_volume": 7766188.0,
           "volume_ratio": 1.327,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9530,7 +9530,7 @@
           "average_volume": 141478.6,
           "volume_ratio": 1.894,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9550,7 +9550,7 @@
           "average_volume": 9690139.6,
           "volume_ratio": 0.714,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9570,7 +9570,7 @@
           "average_volume": 264630.8,
           "volume_ratio": 0.693,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9590,7 +9590,7 @@
           "average_volume": 2155625.0,
           "volume_ratio": 0.527,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9610,7 +9610,7 @@
           "average_volume": 1253987.6,
           "volume_ratio": 0.575,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9630,7 +9630,7 @@
           "average_volume": 606769.8,
           "volume_ratio": 0.75,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9650,7 +9650,7 @@
           "average_volume": 45529.4,
           "volume_ratio": 0.711,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9670,7 +9670,7 @@
           "average_volume": 9754935.4,
           "volume_ratio": 0.741,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9690,7 +9690,7 @@
           "average_volume": 6513746.8,
           "volume_ratio": 0.958,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9710,7 +9710,7 @@
           "average_volume": 81733.0,
           "volume_ratio": 0.791,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9730,7 +9730,7 @@
           "average_volume": 158515242.6,
           "volume_ratio": 1.374,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9750,7 +9750,7 @@
           "average_volume": 11917256.0,
           "volume_ratio": 0.718,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9770,7 +9770,7 @@
           "average_volume": 8252.6,
           "volume_ratio": 1.42,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9790,7 +9790,7 @@
           "average_volume": 5051164.2,
           "volume_ratio": 0.749,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9810,7 +9810,7 @@
           "average_volume": 2532513.8,
           "volume_ratio": 0.568,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9830,7 +9830,7 @@
           "average_volume": 3218449.8,
           "volume_ratio": 0.787,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9850,7 +9850,7 @@
           "average_volume": 494915.8,
           "volume_ratio": 1.072,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9870,7 +9870,7 @@
           "average_volume": 33977697.4,
           "volume_ratio": 1.031,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
@@ -9890,7 +9890,7 @@
           "average_volume": 917424.0,
           "volume_ratio": 0.793,
           "source_data_date": "2026-11-26",
-          "received_timestamp_utc": "2026-11-26T20:03:30Z",
+          "received_timestamp_utc": "2026-11-26T20:36:46Z",
           "source_age_days": 0,
           "status": "GUNLUK_VERI_CANLI_DEGIL",
           "volume_status": "KAPANMIS_GUNLUK_HACIM"
