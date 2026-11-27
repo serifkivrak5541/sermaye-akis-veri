@@ -2,8 +2,8 @@
   "schema_version": 1,
   "market": "BIST",
   "timezone": "Europe/Istanbul",
-  "published_at_utc": "2026-11-27T09:53:19Z",
-  "published_at_tr": "2026-11-27T12:53:19+03:00",
+  "published_at_utc": "2026-11-27T12:51:16Z",
+  "published_at_tr": "2026-11-27T15:51:16+03:00",
   "record_count": 494,
   "source_record_counts": {
     "burkut": 0,
